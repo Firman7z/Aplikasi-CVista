@@ -1,0 +1,6 @@
+{
+  "name": "CVista – Smart CV Generator",
+  "description": "A smart CV generator application that helps users create professional-looking curriculum vitae by filling out a form. Features include live preview and PDF export.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
